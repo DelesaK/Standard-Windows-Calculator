@@ -1,0 +1,10 @@
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\bin\Debug\WindowsCalculater.exe.config
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\bin\Debug\WindowsCalculater.exe
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\bin\Debug\WindowsCalculater.pdb
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.Form1.resources
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.Properties.Resources.resources
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.csproj.GenerateResource.Cache
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.csproj.CoreCompileInputs.cache
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.exe
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.pdb
+C:\Users\DELESA\source\repos\WindowsCalculater\WindowsCalculater\obj\Debug\WindowsCalculater.csprojResolveAssemblyReference.cache
